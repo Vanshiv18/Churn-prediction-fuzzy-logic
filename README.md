@@ -4,7 +4,7 @@ An end-to-end machine learning + deep learning + fuzzy logic system that predict
 
 **[Try the live Fuzzy Logic demo →](https://Vanshiv18.github.io/Churn-prediction-fuzzy-logic/)**
 
-![Overfitting analysis](assets/images/plot8b_four_panel_overfitting.png)
+![Overfitting analysis](assets/plot8b_four_panel_overfitting.png)
 
 ## What this project does
 
@@ -44,11 +44,11 @@ Full methodology, all 20 figures, real code screenshots, and console output are 
 
 ## Fuzzy Logic engine
 
-![Fuzzy membership functions](assets/images/plotX9_fuzzy_membership.png)
+![Fuzzy membership functions](assets/plotX9_fuzzy_membership.png)
 
 Three inputs — **Churn Risk** (ANN probability), **Customer Value** (monthly charges), and **Tenure** — are each converted into degrees of Low/Medium/High membership using triangular and trapezoidal functions, combined via 9 hand-justified Mamdani rules, and defuzzified with the centroid method into a single 0–100 retention priority score.
 
-![Fuzzy decision surface](assets/images/plotX10_fuzzy_surface.png)
+![Fuzzy decision surface](assets/plotX10_fuzzy_surface.png)
 
 ## Repository structure
 
