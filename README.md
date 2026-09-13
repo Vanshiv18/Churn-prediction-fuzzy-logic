@@ -2,7 +2,7 @@
 
 An end-to-end machine learning + deep learning + fuzzy logic system that predicts customer churn and turns that prediction into a business-usable retention priority — built on the IBM Telco Customer Churn dataset.
 
-**[Try the live Fuzzy Logic demo →](https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/)**
+**[Try the live Fuzzy Logic demo →](https://Vanshiv18.github.io/Churn-prediction-fuzzy-logic/)**
 
 ![Overfitting analysis](assets/images/plot8b_four_panel_overfitting.png)
 
@@ -108,8 +108,8 @@ Each script reads the CSV outputs of the previous one, so run them in order the 
 
 ## Author
 
-**Shivam** — MBA (Data Science & AI), Mittal School of Business, Lovely Professional University.
-Built as an academic project for MGNM–525 (Intelligent Customer Churn Prediction and Retention Decision Support System using ANN and Fuzzy Logic).
+**Vanshiv Rana** — MBA (Data Science & AI), Mittal School of Business, Lovely Professional University.
+Built as an academic project for  (Intelligent Customer Churn Prediction and Retention Decision Support System using ANN and Fuzzy Logic).
 
 ## License
 
