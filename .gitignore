@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model / data artifacts (regenerate by running src/ scripts)
+*.keras
+*.joblib
+telco_clean.csv
+telco_model_ready.csv
+X_train.csv
+X_test.csv
+y_train.csv
+y_test.csv
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
